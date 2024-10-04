@@ -1,3 +1,3 @@
 # my-pretty-repo
 
-//BUG
+//NO BUG
